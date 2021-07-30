@@ -1,0 +1,36 @@
+.btn {
+    width: 59px;
+    height: 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25.6px;
+    text-rendering: optimizeLegibility;
+    background-color: #DFDFDF;
+    cursor: pointer;
+    border: 1px solid silver;
+}
+
+.long-btn {
+    width: 118px;
+    padding-left: 22px;
+    text-align: left;
+    border-bottom-left-radius: 6px;
+}
+
+.orange-btn {
+    color: white;
+    font-weight: 100;
+    background-color: #DF913C;
+}
+
+.top-btn {
+    font-weight: 100;
+    background-color: #D4D4D4;
+}
+
+.equally-btn {
+    color: white;
+    font-weight: 100;
+    background-color: #DF913C;
+    border-bottom-right-radius: 6px;
+}
