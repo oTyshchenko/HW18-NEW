@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Display from './display/display.js';
-import BtnBox from './btnBox/btnBox.js';
+import BtnBox from './btn-box/btn-box.js';
 import { changeNumber } from '../utils/change-number.js';
 import { getClearState } from '../utils/get-clear-state.js';
 import { getNumber } from '../utils/get-number.js';
